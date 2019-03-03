@@ -1,6 +1,5 @@
 package com.ravi.ds.array;
 
-import com.ravi.ds.array.OneAway;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
